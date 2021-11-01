@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.form {
+    background-color: antiquewhite;
+    /* margin: 50px; */
+    padding: 50px;
+}
+
+.text{
+    padding: 5px 0px 8px 5px;
+    border-radius: 4px;
+}
+
+.box{
+    /* position: fixed; */
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+    margin-top: 55vh;
+}
+
+.text2{
+    color: white;
+    padding: 20px;
+}
+
+
+@media only screen and (max-width:400px) {
+    * {
+        text-align: center;
+    }
+}
