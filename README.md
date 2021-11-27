@@ -1,5 +1,6 @@
-# Assignment 2 
-#Sum-Calculator
+# Assignment 2
 
-#Preview
+## Sum-Calculator
+
+## Preview
 <img src="./Assets/preview.png"></img>
